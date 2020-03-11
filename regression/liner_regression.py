@@ -3,7 +3,7 @@
 """
 @author: liucheng
 @contact: liucheng@memect.co
-@file: utils.py
+@file: liner_regression.py
 @time: 2/29/20 9:43 PM
 @desc:
 """
